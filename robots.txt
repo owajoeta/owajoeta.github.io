@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owajoeta.github.io/AVg/sitemap_index.txt
+Sitemap: https://owajoeta.github.io/Qmr/sitemap_index.txt
+Sitemap: https://owajoeta.github.io/RhY/sitemap_index.txt
+Sitemap: https://owajoeta.github.io/cdI/sitemap_index.txt
